@@ -1,5 +1,9 @@
 body {
     text-align: center;
-    color: magenta;
+    color: green;
     font-style: italic;
+
+}
+p{
+    color: blue;
 }
